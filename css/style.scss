@@ -1,0 +1,16 @@
+body {
+    background-image: url("/images/taylorKanye.jpg");
+    background-size: cover;
+    color: #D94496;
+
+    button {
+        color: #D94496;
+        font-size: 1.5em;
+    }
+}
+    
+.gridContainer {
+    display: grid;
+    place-items: center;
+}
+
